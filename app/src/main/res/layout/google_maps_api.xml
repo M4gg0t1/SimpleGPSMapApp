@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <resources>
+        <string android:name="google_maps_key" android:templateMergeStrategy="preserve" android:translatable="false">AIzaSyB2pbkwv2-_n0bYlnEe1o_CqwBM4qytNpY</string>
+    </resources>
+</androidx.constraintlayout.widget.ConstraintLayout>
