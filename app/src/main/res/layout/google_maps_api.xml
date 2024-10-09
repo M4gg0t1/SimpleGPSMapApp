@@ -6,6 +6,6 @@
 
 
     <resources>
-        <string android:name="google_maps_key" android:templateMergeStrategy="preserve" android:translatable="false">AIzaSyB2pbkwv2-_n0bYlnEe1o_CqwBM4qytNpY</string>
+        <string android:name="google_maps_key" android:templateMergeStrategy="preserve" android:translatable="false">API PERSONAL</string>
     </resources>
 </androidx.constraintlayout.widget.ConstraintLayout>
