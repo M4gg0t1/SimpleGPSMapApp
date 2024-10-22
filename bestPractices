@@ -1,0 +1,13 @@
+# Security Tips Implementados
+
+## 1. Proteger contra Inyección SQL
+- **Descripción**: Se utilizan consultas parametrizadas para evitar inyecciones SQL.
+- **Impacto en Seguridad**: Previene accesos no autorizados a datos sensibles.
+
+## 2. Autenticación y Autorización Seguras
+- **Descripción**: Implementación de Autenticación Multifactor (MFA) y privilegios mínimos.
+- **Impacto en Seguridad**: Dificulta el acceso no autorizado y limita daños potenciales.
+
+## 3. Protección contra Ataques MITM
+- **Descripción**: Uso obligatorio de HTTPS y HSTS.
+- **Impacto en Seguridad**: Cifra las comunicaciones, protegiendo datos durante la transmisión.
